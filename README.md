@@ -18,7 +18,6 @@ This project analyzes the Amazon Prime Movies and TV Shows dataset using Python.
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
-📂 Dataset
 
 The dataset contains information about Amazon Prime titles, including:
 
