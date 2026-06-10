@@ -58,4 +58,6 @@ The dataset contains information about Amazon Prime titles, including:
 * TV Shows have increased steadily in recent years.
 
 ⭐ Conclusion
-This project demonstrates how Python-based data analysis techniques can uncover meaningful insights from Amazon Prime's content library. Through data cleaning, visualization, and exploratory analysis, valuable trends and patterns were identified to better understand the platform's entertainment offerings.
+
+  This project demonstrates how Python-based data analysis techniques can uncover meaningful insights from Amazon Prime's content           library. Through data cleaning, visualization, and exploratory analysis, valuable trends and patterns were identified to better    
+  the platform's entertainment offerings.
